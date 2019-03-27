@@ -1,1 +1,1 @@
-xxxtaaaaaest vim version
+vim version
